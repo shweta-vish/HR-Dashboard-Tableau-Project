@@ -1,46 +1,60 @@
-# HR-Dashboard-Tableau-Project
+# 📊 HR Analytics Dashboard – Tableau Project
+
+Welcome to my HR Analytics project! This dashboard was built to provide HR professionals with powerful, interactive visual insights into workforce data — from employee demographics to income analysis.
+
 ## 👤 User Story
-_As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis._
 
-🗂️ Project Overview
-This Tableau dashboard is designed to provide meaningful insights into HR metrics such as hiring trends, employee demographics, and salary analysis. The data is visualized in an interactive and intuitive format for HR decision-makers.
+> As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.
 
- 📌 Key Features
+## 🔍 Project Overview
 
-🔹 Overview Section
-- Total number of **hired**, **active**, and **terminated** employees
-- Year-wise trends of hiring and terminations
+The dashboard is divided into three main sections:
+
+### 1. **Overview**
+- Total number of hired, active, and terminated employees
+- Year-wise hiring and termination trends
 - Department and job title breakdown
-- HQ vs Branch comparison (New York is the HQ)
-- Employee distribution by **city** and **state**
+- HQ vs. Branch (New York as HQ) comparison
+- Distribution of employees across cities and states
 
- 🔹 Demographics Section
+### 2. **Demographics**
 - Gender ratio visualization
-- Age group and education level distributions
-- Number of employees by age and education
-- Correlation between **education level** and **performance rating**
+- Age group and education level breakdown
+- Total employees by age and education
+- Correlation between education and performance ratings
 
-🔹 Income Analysis
-- Salary comparison by **education level** and **gender**
-- Age vs salary analysis for each department
+### 3. **Income Analysis**
+- Salary comparisons by gender and education level
+- Age vs. salary trends for different departments
 
----
+## 📊 Live Dashboard
 
-## 🛠️ Tools & Technologies
+Check out the published dashboard here:  
+🔗 [HR Dashboard on Tableau Public](https://public.tableau.com/views/HRANALYTICS_17516019958110/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- **Tableau** – for data visualization
-- **Excel** – for data preparation and cleaning
-- 
-- ## 📷 Screenshot
+## 📁 Files & Resources
 
+- 📂 [Dataset & Tableau Workbook – Google Drive](https://drive.google.com/drive/folders/1UDXr047kw-6Ug0O465pylgMvlqpkl4c-?usp=drive_link)
 
+## 🛠 Tools Used
 
----
+- **Tableau Public** – for data visualization and dashboard building
+- **Microsoft Excel** – for data cleaning and preprocessing
+- **Mapbox (via Tableau)** – for geographic visualizations
 
-## 📁 Files Included
+## 🧠 Skills Highlighted
 
-  HR_Dashboard.twbx – Tableau packaged workbook
-  HR_Data.xlsx – Source dataset (if shareable)
+- Data Visualization & Storytelling  
+- HR Analytics & KPI Reporting  
+- Dashboard Design in Tableau  
+- Salary, Demographic & Performance Analysis
 
-- If you have feedback, suggestions, or want to collaborate, feel free to reach out!  
-https://www.linkedin.com/in/shweta-vishwakarma-90065a245
+## 👩‍💼 About Me
+
+📌 [Shweta Vishwakarma – LinkedIn](https://www.linkedin.com/in/shweta-vishwakarma-90065a245)
+
+Feel free to connect with me for feedback, suggestions, or collaboration opportunities!
+
+## 📌 License
+
+This project is for educational and portfolio purposes. Do not redistribute the dataset or dashboard without proper credit.
